@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/VietGroupLP/static/css/main.fdb8087f.chunk.css",
-    "main.js": "/VietGroupLP/static/js/main.5c10864f.chunk.js",
-    "main.js.map": "/VietGroupLP/static/js/main.5c10864f.chunk.js.map",
-    "runtime-main.js": "/VietGroupLP/static/js/runtime-main.a549b387.js",
-    "runtime-main.js.map": "/VietGroupLP/static/js/runtime-main.a549b387.js.map",
-    "static/js/2.ea57f69d.chunk.js": "/VietGroupLP/static/js/2.ea57f69d.chunk.js",
-    "static/js/2.ea57f69d.chunk.js.map": "/VietGroupLP/static/js/2.ea57f69d.chunk.js.map",
-    "static/js/3.2f871ee4.chunk.js": "/VietGroupLP/static/js/3.2f871ee4.chunk.js",
-    "static/js/3.2f871ee4.chunk.js.map": "/VietGroupLP/static/js/3.2f871ee4.chunk.js.map",
+    "main.js": "/VietGroupLP/static/js/main.3151fda4.chunk.js",
+    "main.js.map": "/VietGroupLP/static/js/main.3151fda4.chunk.js.map",
+    "runtime-main.js": "/VietGroupLP/static/js/runtime-main.f7c00747.js",
+    "runtime-main.js.map": "/VietGroupLP/static/js/runtime-main.f7c00747.js.map",
+    "static/js/2.ece71874.chunk.js": "/VietGroupLP/static/js/2.ece71874.chunk.js",
+    "static/js/2.ece71874.chunk.js.map": "/VietGroupLP/static/js/2.ece71874.chunk.js.map",
+    "static/js/3.809dfbdc.chunk.js": "/VietGroupLP/static/js/3.809dfbdc.chunk.js",
+    "static/js/3.809dfbdc.chunk.js.map": "/VietGroupLP/static/js/3.809dfbdc.chunk.js.map",
     "index.html": "/VietGroupLP/index.html",
     "static/css/main.fdb8087f.chunk.css.map": "/VietGroupLP/static/css/main.fdb8087f.chunk.css.map",
-    "static/js/2.ea57f69d.chunk.js.LICENSE.txt": "/VietGroupLP/static/js/2.ea57f69d.chunk.js.LICENSE.txt",
+    "static/js/2.ece71874.chunk.js.LICENSE.txt": "/VietGroupLP/static/js/2.ece71874.chunk.js.LICENSE.txt",
     "static/media/american.39aeda0f.svg": "/VietGroupLP/static/media/american.39aeda0f.svg",
     "static/media/appStore.7ef1a869.svg": "/VietGroupLP/static/media/appStore.7ef1a869.svg",
     "static/media/style.scss": "/VietGroupLP/static/media/bg.a61d3dd5.svg",
@@ -52,9 +52,9 @@
     "static/media/vietnam.cd970e41.svg": "/VietGroupLP/static/media/vietnam.cd970e41.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a549b387.js",
-    "static/js/2.ea57f69d.chunk.js",
+    "static/js/runtime-main.f7c00747.js",
+    "static/js/2.ece71874.chunk.js",
     "static/css/main.fdb8087f.chunk.css",
-    "static/js/main.5c10864f.chunk.js"
+    "static/js/main.3151fda4.chunk.js"
   ]
 }
