@@ -1,0 +1,90 @@
+{
+    "headerMenu": {
+        "CustomerFeedBack": "Feedback",
+        "Feature": "Feature",
+        "Contact": "Contact",
+        "Login": "Login"
+    },
+    "sectionHeader": {
+        "SocialMediaConnectPeople": "Super Application \n Connecting Vietnamese Community. ",
+        "DowloadApp": "Download now "
+    },
+    "sectionRegister": {
+        "Doyouinterested": "Do you find it interesting?",
+        "JoinVietGroup": "Let's Join VietGroup",
+        "Content": "With just a few simple registration steps, you can join the largest social networking community in Vietnam. With a wide range of features, excellent service. ",
+        "RegisterAccount": "Register Account"
+    },
+    "sectionFeature": {
+        "mainTitle1": "Preeminent features ",
+        "title1": "Shopping Online",
+        "title2": "Order food online",
+        "title3": "Hunting for sale with VietGroup",
+        "subTitle1": "Enjoy shopping on the app Convenient - safe - fast",
+        "subTitle2": "Ordering your favorite food has never been so easy!",
+        "subTitle3": "With many attractive programs and discounts, you will have your favorite items right away",
+        "mainTitle2": "Diverse quality services",
+        "title4": "24/7 customer support",
+        "title5": "Various services",
+        "title6": "Reputation - product quality",
+        "subTitle4": "Customers are always the focus of VietGroup, customers are always supported promptly - quickly - enthusiastically. ",
+        "subTitle5": "With a variety of services from opening Visa, offering Tours to offering entertainment services.",
+        "subTitle6": "With many attractive programs and discounts, you will have your favorite items right away"
+    },
+    "sectionFeatureDetail": {
+        "Feature": "Feature",
+        "description": "A quick look at VietGroup's existing features",
+        "super_market": "Supermarket",
+        "social": "Social",
+        "restaurant": "Restaurant",
+        "subTitle1": "Online directions",
+        "subContent1": "You will be given the shortest route to get to the supermarket of your choice",
+        "subTitle2": "Online shopping",
+        "subContent2": "Now, going to the supermarket and shopping for goods is no longer difficult because there is a Shopping Cart feature, which allows you to shop for essential items through just one application.",
+        "subTitle3": "Recommended nearest supermarket",
+        "subContent3": "You do not have to waste time thinking about which supermarket to go with VietGroup's Suggestive feature, we will find the Supermarket with the closest and most convenient route.",
+        "subTitle4": "Chat with your friends",
+        "subContent4": "You can make friends and chat with the entire VietGroup community, join and make friends in all four directions.",
+        "subTitle5": "Place to express your feelings",
+        "subContent5": "You can share your personal articles and thoughts with all your friends and relatives. With emotions - extremely diverse activities",
+        "subTitle6": "Share pictures / videos with pleasure",
+        "subContent6": "Not only monotonous status lines, now you can also share your personal photos / videos on VietGroup.",
+        "subTitle7": "Place food anywhere",
+        "subContent7": "You can order food wherever you want, now it's easier than ever to sit at home and enjoy delicious food",
+        "subTitle8": "Promotions, discounts",
+        "subContent8": "At Vietgroup always provide customers with promotions and discounts. You do not need to pay attention to the price, to enjoy your meals at Vietgroup.",
+        "subTitle9": "VietGroup selects suitable locations",
+        "subContent9": "Based on your preferences and eating habits, Vietgroup will provide you restaurants with food and drink suitable for your personal preferences."
+    },
+    "sectionRating": {
+        "customer_feedback": "Customers feedback",
+        "customer_feedback_content": "I like to use VietGroup application, through the application I can make many new friends, this place helps me share my very own thoughts and feelings.",
+        "customer_name": "Trần Đỗ Minh Ân",
+        "customer_feedback_title": "VietGroup is great!",
+        "thanks": "Thanks!"
+    },
+    "footer": {
+        "send": "SEND",
+        "address": "ADDRESS",
+        "contact": "CONTACT",
+        "contact_us": "CONTACT US",
+        "full_name": "Full name:",
+        "email": "Email",
+        "content": "Content:",
+        "security": "Term & Conditions",
+        "rules": "Privacy Policy",
+        "FAQ": "FAQ",
+        "footer_description": "VietGroup is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,",
+        "address_detail": "Floor 21, Center Building, Hapulico Complex, No. 1 Nguyen Huy Tuong, p. Thanh Xuan Trung, Thanh Xuan district, Hanoi. Phone: 024 7309 5555, ext 370. ",
+        "contact_detail": "vietgroupjp@gmail.com \n +84 092 777 856"
+    },
+    "in_contructor": {
+        "title": "WE ARE DEVELOPING MOBILE VERSION",
+        "content": "Wish you sympathize!"
+    },
+    "alert": {
+        "title": "DEVELOPING FUNCTIONS",
+        "content": "Customers please sympathize, the function will be updated in the upcoming version!",
+        "agree": "Agree"
+    }
+}
