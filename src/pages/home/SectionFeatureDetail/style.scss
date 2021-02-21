@@ -1,0 +1,85 @@
+.SectionFeatureDetail {
+    background-image: url('../../../images/bg.svg');
+    background-size: cover;
+    padding: 32px 86px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    .row {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .title {
+        font: var(--unnamed-font-style-normal) normal bold 38px/0px (--unnamed-line-spacing-40) var(--unnamed-font-family-roboto);
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--unnamed-color-26415d);
+        text-align: left;
+        font: normal normal bold 38px/0px Roboto;
+        letter-spacing: 0px;
+        color: #26415D;
+        opacity: 1;
+    }
+
+    .subTitle {
+        font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-24)/var(--unnamed-line-spacing-40) var(--unnamed-font-family-roboto);
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--unnamed-color-ababab);
+        font: normal normal 300 18px/0px Roboto;
+        letter-spacing: 0px;
+        color: #ABABAB;
+        opacity: 1;
+        text-align: left;
+    }
+
+
+    .titleMenu {
+        font: var(--unnamed-font-style-normal) normal normal 14px/19px Roboto Mono;
+        text-align: center;
+        font: normal normal normal 14px/19px Roboto Mono;
+        letter-spacing: 1.05px;
+        color: #000000;
+        opacity: 0.6;
+    }
+
+    .active {
+        font: var(--unnamed-font-style-normal) normal bold 14px/19px Roboto Mono;
+        color: var(--unnamed-color-26415d);
+        text-align: center;
+        font: normal normal bold 14px/19px Roboto Mono;
+        letter-spacing: 1.05px;
+        color: #26415D;
+        opacity: 1;
+        border-bottom: 3px solid var(--unnamed-color-26415d);
+        border-bottom: 3px solid #26415D;
+        height: max-content;
+        opacity: 1;
+        padding-bottom: 10px;
+    }
+
+    .marginLeft {
+        margin-left: 50px;
+    }
+
+    .marginTop {
+        margin-top: 40px;
+    }
+
+    .sectionFeature {
+        max-width: 50%;
+    }
+
+    .flex1 {
+        flex: 1;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: row;
+        height: fit-content;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

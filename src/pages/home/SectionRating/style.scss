@@ -1,0 +1,55 @@
+.SectionRating {
+    padding: 0px 32px;
+
+    .line {
+        border-bottom: 6px solid #FF80D9;
+        border-radius: 40px;
+        opacity: 1;
+        width: 150px;
+        margin-bottom: 30px;
+        height: 0px;
+    }
+
+    .title {
+        font: var(--unnamed-font-style-normal) normal bold 30px/0px (--unnamed-line-spacing-40) var(--unnamed-font-family-roboto);
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--unnamed-color-26415d);
+        font: normal normal bold 30px/0px Roboto;
+        letter-spacing: 0px;
+        color: #26415D;
+        text-align: left;
+    }
+
+    .comment {
+        font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300) var(--unnamed-font-size-24)/var(--unnamed-line-spacing-40) var(--unnamed-font-family-roboto);
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--unnamed-color-ababab);
+        text-align: center;
+        font: normal normal 300 20px/30px Roboto;
+        letter-spacing: 0px;
+        color: #ABABAB;
+        opacity: 1;
+    }
+
+
+    .author {
+        font: var(--unnamed-font-style-normal) normal bold 20px/26px Roboto Mono;
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--unnamed-color-707070);
+        text-align: center;
+        font: normal normal bold 20px/26px Roboto Mono;
+        letter-spacing: 0px;
+        color: #707070;
+        opacity: 1;
+    }
+}
+
+.authorName {
+    font: var(--unnamed-font-style-normal) normal bold 21px/28px Roboto Mono;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal bold 21px/28px Roboto Mono;
+    letter-spacing: 0px;
+    color: #26415d;
+    opacity: 1;
+}

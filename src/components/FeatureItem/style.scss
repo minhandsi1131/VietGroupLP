@@ -1,0 +1,30 @@
+.miniTitle {
+    font: var(--unnamed-font-style-normal) normal bold 16px/0px var(--unnamed-font-family-roboto);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal bold 16px/0px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.miniContent {
+    font: var(--unnamed-font-style-normal) normal normal 16px/24px var(--unnamed-font-family-roboto);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 16px/24px Roboto;
+    letter-spacing: 0px;
+    color: #969696;
+}
+
+.marginLeft {
+    margin-left: 50px;
+}
+
+.marginTop {
+    margin-top: 40px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}

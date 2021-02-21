@@ -1,0 +1,90 @@
+{
+    "headerMenu": {
+        "CustomerFeedBack": "Khách hàng cảm nhận",
+        "Feature": "Tính năng",
+        "Contact": "Liên hệ",
+        "Login": "Đăng nhập"
+    },
+    "sectionHeader": {
+        "SocialMediaConnectPeople": "Siêu Ứng Dụng \n Kết nối cộng đồng Việt.",
+        "DowloadApp": "Tải ứng dụng "
+    },
+    "sectionRegister": {
+        "Doyouinterested": "Bạn thích sự thú vị? ",
+        "JoinVietGroup": "Tham gia VietGroup ",
+        "Content": "Chỉ với một vài bước đăng ký đơn giản là bạn đã có thể tham gia vào cộng đồng mạng xã hội kết nối người Việt lớn nhất. Với hàng loạt những tính năng, dịch vụ tuyệt vời.",
+        "RegisterAccount": "Đăng ký tài khoản"
+    },
+    "sectionFeature": {
+        "mainTitle1": "Những tính năng ưu việt",
+        "title1": "Mua sắm online",
+        "title2": "Đặt đồ ăn trực tuyến",
+        "title3": "Săn sale cùng VietGroup",
+        "subTitle1": "Thoả thích mua sắm trên ứng dụng Tiện lợi - an toàn - nhanh chóng",
+        "subTitle2": "Đặt món ăn ưa thích của bạn chưa bao giờ là dễ dàng như thế!",
+        "subTitle3": "Với nhiều chương trình ưu đãi, giảm giá hấp dẫn, bạn sẽ có ngay những món đồ ưa thích",
+        "mainTitle2": "Dịch vụ đa dạng chất lượng",
+        "title4": "Hỗ trợ khách hàng 24/7",
+        "title5": "Dịch vụ đa dạng",
+        "title6": "Uy tín - chất lượng sản phẩm",
+        "subTitle4": "Khách hàng luôn là trọng tâm của VietGroup, quý khách hàng luôn được hỗ trợ kịp thời - nhanh chóng - tận tình.",
+        "subTitle5": "Với đa dạng các dịch vụ từ mở Visa, cung cấp các tour Du lịch cho đến gợi ý những dịch vụ giải trí.",
+        "subTitle6": "Với nhiều chương trình ưu đãi, giảm giá hấp dẫn, bạn sẽ có ngay những món đồ ưa thích"
+    },
+    "sectionFeatureDetail": {
+        "Feature": "Tính năng",
+        "description": "Xem nhanh những tính năng hiện có của VietGroup",
+        "super_market": "Siêu thị",
+        "social": "Cộng đồng",
+        "restaurant": "Nhà hàng",
+        "subTitle1": "Chỉ đường trực tuyến",
+        "subContent1": "Bạn sẽ được cung cấp tuyến đường ngắn nhất để đến với siêu thị bạn chọn",
+        "subTitle2": "Mua hàng trực tuyến",
+        "subContent2": "Giờ đây việc đến siêu thị và mua sắm đồ đã không còn khó khăn vì đã có tính năng Giỏ Hàng, giúp quý khách có thể mua sắm những vật dụng cần thiết chỉ qua một ứng dụng.",
+        "subTitle3": "Gợi ý siêu thị gần nhất",
+        "subContent3": "Bạn không cần phải tốn thời gian suy nghĩ nên đi Siêu thị nào với tính năng Gợi ý của VietGroup, chúng tôi sẽ tìm ra những Siêu thị có tuyến đường gần và thuận tiện nhất",
+        "subTitle4": "Trò chuyện tán gẫu",
+        "subContent4": "Bạn có thể kết bạn và trò chuyện với cả một cộng đồng VietGroup, cùng tham gia và kết bạn bốn phương nào.",
+        "subTitle5": "Nơi bày tỏ những cảm nghĩ",
+        "subContent5": "Bạn có thể chia sẻ những bài viết, suy nghĩ cá nhân của mình cho tất cả những bạn bè - người thân. Với những cảm xúc - hoạt động vô cùng đa dạng.",
+        "subTitle6": "Thỏa thích chia sẻ hình ảnh / video",
+        "subContent6": "Không chỉ riêng những dòng trạng thái đơn điệu, nay bạn cũng có thể chia sẻ những hình ảnh / video cá nhân trên VietGroup.",
+        "subTitle7": "Đặt đồ ăn ở mọi nơi",
+        "subContent7": "Bạn có thể đặt món ăn ở bất cứ đâu bạn muốn, giờ đây việc ngồi tại nhà và thưởng thức những món ăn ngon đã dễ dàng hơn bao giờ hết.",
+        "subTitle8": "Chương trình khuyến mãi, giảm giá",
+        "subContent8": "Tại Vietgroup luôn luôn cung cấp cho khách hàng những chương trình khuyến mãi, giảm giá. Bạn không cần phải quan tâm đến giá cả, thỏa sức ăn uống tại Vietgroup.",
+        "subTitle9": "VietGroup lựa chọn những địa điểm phù hợp",
+        "subContent9": "Dựa theo sở thích, thói quen ăn uống của bạn, Vietgroup sẽ cung cấp đến bạn những nhà hàng có những thức ăn, nước uống phù hợp với sở thích cá nhân."
+    },
+    "sectionRating": {
+        "customer_feedback": "Khách hàng cảm nhận",
+        "customer_feedback_content": "Tôi rất thích sử dụng ứng dụng VietGroup, thông qua ứng dụng tôi có thể kết thêm nhiều bạn bè mới, nơi đây giúp tôi chia sẻ những suy nghĩ, cám xúc rất riêng.",
+        "customer_name": "Trần Đỗ Minh Ân",
+        "customer_feedback_title": "VietGroup rất tuyệt!",
+        "thanks": "Cảm ơn"
+    },
+    "footer": {
+        "send": "GỬI",
+        "address": "ĐỊA CHỈ",
+        "contact": "LIÊN HỆ",
+        "contact_us": "LIÊN HỆ VỚI CHÚNG TÔI",
+        "full_name": "Họ và tên:",
+        "email": "Email",
+        "content": "Nội dung:",
+        "security": "Bảo mật",
+        "rules": "Điều khoản",
+        "FAQ": "FAQ",
+        "footer_description": "VietGroup is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,",
+        "address_detail": "Tầng 21, tòa nhà Center Building, Hapulico Complex, số 1 Nguyễn Huy Tưởng, p. Thanh Xuân Trung, quận Thanh Xuân, Hà Nội. Điện thoại: 024 7309 5555, máy lẻ 370.",
+        "contact_detail": "vietgroupjp@gmail.com \n +84 092 777 856"
+    },
+    "in_contructor": {
+        "title": "CHÚNG TÔI ĐANG PHÁT TRIỂN BẢN MOBILE",
+        "content": "Mong quý khách thông cảm!"
+    },
+    "alert": {
+        "title": "CHỨC NĂNG ĐANG PHÁT TRIỂN",
+        "content": "Qúy khách hàng vui lòng thông cảm, chức năng sẽ được cập nhật trong phiên bản sắp tới!",
+        "agree": "Đồng ý"
+    }
+}
