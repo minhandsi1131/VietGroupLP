@@ -1,6 +1,6 @@
 {
     "headerMenu": {
-        "CustomerFeedBack": "Khách hàng cảm nhận",
+        "CustomerFeedBack": "Nhận xét",
         "Feature": "Tính năng",
         "Contact": "Liên hệ",
         "Login": "Đăng nhập"
@@ -57,7 +57,7 @@
         "subContent9": "Dựa theo sở thích, thói quen ăn uống của bạn, Vietgroup sẽ cung cấp đến bạn những nhà hàng có những thức ăn, nước uống phù hợp với sở thích cá nhân."
     },
     "sectionRating": {
-        "customer_feedback": "Khách hàng cảm nhận",
+        "customer_feedback": "Nhận xét",
         "customer_feedback_content": "Tôi rất thích sử dụng ứng dụng VietGroup, thông qua ứng dụng tôi có thể kết thêm nhiều bạn bè mới, nơi đây giúp tôi chia sẻ những suy nghĩ, cám xúc rất riêng.",
         "customer_name": "Trần Đỗ Minh Ân",
         "customer_feedback_title": "VietGroup rất tuyệt!",
