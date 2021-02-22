@@ -1,0 +1,90 @@
+{
+    "headerMenu": {
+        "CustomerFeedBack": "フィードバック",
+        "Feature": "特徴 ",
+        "Contact": "特徴 ",
+        "Login": "ログイン"
+    },
+    "sectionHeader": {
+        "SocialMediaConnectPeople": "スーパーアプリケーション\nベトナムの コミュニティをつなぐ。",
+        "DowloadApp": "アプリを取得する "
+    },
+    "sectionRegister": {
+        "Doyouinterested": "あなたは楽しみが好きですか？ ",
+        "JoinVietGroup": "VietGroupに参加する ",
+        "Content": "いくつかの簡単な登録手順で、ベトナム最大のソーシャルネットワーキングコミュニティに参加できます。 幅広い機能、優れたサービスを備えています。 ",
+        "RegisterAccount": "アカウントに登録する"
+    },
+    "sectionFeature": {
+        "mainTitle1": "抜群の機能",
+        "title1": "オンラインショッピング",
+        "title2": "オンラインで食べ物を注文する",
+        "title3": "VietGroupでの販売のための狩猟",
+        "subTitle1": "アプリで買い物を楽しむ便利-安全-高速",
+        "subTitle2": "お気に入りの食べ物を注文するのはこれほど簡単ではありませんでした！",
+        "subTitle3": "多くの魅力的なプログラムと割引で、あなたはすぐにあなたのお気に入りのアイテムを手に入れるでしょう",
+        "mainTitle2": "多様な品質のサービス",
+        "title4": "24時間年中無休のカスタマーサポート",
+        "title5": "各種サービス",
+        "title6": "評判-製品の品質",
+        "subTitle4": "顧客は常にVietGroupの焦点であり、顧客は常に迅速に、迅速に、熱心にサポートされます。",
+        "subTitle5": "ビザの開設からツアーの提供、エンターテインメントサービスの提供まで、さまざまなサービスを提供しています。",
+        "subTitle6": "多くの魅力的なプログラムと割引で、あなたはすぐにあなたのお気に入りのアイテムを手に入れるでしょう"
+    },
+    "sectionFeatureDetail": {
+        "Feature": "特徴",
+        "description": "VietGroupの既存の機能の概要",
+        "super_market": "スーパーマーケット",
+        "social": "コミュニティ",
+        "restaurant": "レストラン",
+        "subTitle1": "オンラインの道順",
+        "subContent1": "選択したスーパーマーケットに行くための最短ルートが与えられます",
+        "subTitle2": "オンラインショッピング",
+        "subContent2": "1回の申し込みで必需品を購入できるショッピングカート機能が加わり、スーパーに行って買い物をするのも難しくありません",
+        "subTitle3": "おすすめの最寄りのスーパーマーケット",
+        "subContent3": "VietGroupの提案機能を使用してどのスーパーマーケットに行くかを考えるのに時間を無駄にする必要はありません。最も近くて最も便利なルートのスーパーマーケットが見つかります。",
+        "subTitle4": "お友達とチャット",
+        "subContent4": "友達を作ったり、VietGroupコミュニティ全体とチャットしたり、4つの方向すべてに参加して友達を作ったりすることができます",
+        "subTitle5": "あなたの気持ちを表現する場所",
+        "subContent5": "あなたはあなたの個人的な記事や考えをすべてのあなたの友人や親戚と共有することができます。 感情を込めて-非常に多様な活動",
+        "subTitle6": "写真/ビデオを喜んで共有する",
+        "subContent6": "単調なステータスラインだけでなく、VietGroupで個人の写真やビデオを共有できるようになりました。",
+        "subTitle7": "どこにでも食べ物を置く",
+        "subContent7": "どこでも好きな場所で注文できるので、家に座って美味しい料理を楽しむことがこれまで以上に簡単になりました。",
+        "subTitle8": "プロモーション、割引",
+        "subContent8": "Vietgroupでは常に顧客にプロモーションと割引を提供しています。 Vietgroupで食事を楽しむために、価格に注意を払う必要はありません。",
+        "subTitle9": "VietGroupは適切な場所を選択します",
+        "subContent9": "あなたの好みと食生活に基づいて、Vietgroupはあなたの個人的な好みに適した食べ物と飲み物をレストランに提供します。"
+    },
+    "sectionRating": {
+        "customer_feedback": "顧客は感じる",
+        "customer_feedback_content": "私はVietGroupアプリケーションを使用するのが好きです。多くの新しい友達を作ることができるアプリケーションを通じて、この場所は私自身の考えや気持ちを共有するのに役立ちます。",
+        "customer_name": "Trần Đỗ Minh Ân",
+        "customer_feedback_title": "VietGroupは素晴らしいです！",
+        "thanks": "ありがとう!"
+    },
+    "footer": {
+        "send": "送信するには",
+        "address": "住所",
+        "contact": "連絡先",
+        "contact_us": "お問い合わせ",
+        "full_name": "名前と苗字：",
+        "email": "Eメール",
+        "content": "コンテンツ：",
+        "security": "セキュリティ",
+        "rules": "ルール",
+        "FAQ": "FAQ",
+        "footer_description": "VietGroup is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,",
+        "address_detail": "21階、センタービル、ハプリココンプレックス、No。1Nguyen Huy Tuong、p。 Thanh Xuan Trung、Thanh Xuan地区、ハノイ。 電話：024 7309 5555、内線370",
+        "contact_detail": "vietgroupjp@gmail.com \n +84 092 777 856"
+    },
+    "in_contructor": {
+        "title": "私たちはモバイルバージョンを開発しています",
+        "content": "お見舞い申し上げます！"
+    },
+    "alert": {
+        "title": "機能の開発",
+        "content": "今後のバージョンで機能が更新されますので、お見舞い申し上げます。",
+        "agree": "同意する"
+    }
+}
