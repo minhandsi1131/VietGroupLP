@@ -5,7 +5,7 @@ import Home from "./pages/home";
 function App() {
   return (
     <div className="App">
-      <Suspense fallback={<div></div>}>
+      <Suspense fallback={<div>hello world</div>}>
         <Home />
       </Suspense>
     </div>
