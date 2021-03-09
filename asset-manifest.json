@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VietGroupLP/static/css/main.e0e97ab5.chunk.css",
+    "main.css": "/VietGroupLP/static/css/main.864ae9c4.chunk.css",
     "main.js": "/VietGroupLP/static/js/main.b5e44b0f.chunk.js",
     "main.js.map": "/VietGroupLP/static/js/main.b5e44b0f.chunk.js.map",
     "runtime-main.js": "/VietGroupLP/static/js/runtime-main.b2111c7a.js",
@@ -10,7 +10,7 @@
     "static/js/3.7bdad46e.chunk.js": "/VietGroupLP/static/js/3.7bdad46e.chunk.js",
     "static/js/3.7bdad46e.chunk.js.map": "/VietGroupLP/static/js/3.7bdad46e.chunk.js.map",
     "index.html": "/VietGroupLP/index.html",
-    "static/css/main.e0e97ab5.chunk.css.map": "/VietGroupLP/static/css/main.e0e97ab5.chunk.css.map",
+    "static/css/main.864ae9c4.chunk.css.map": "/VietGroupLP/static/css/main.864ae9c4.chunk.css.map",
     "static/js/2.c74d0d8d.chunk.js.LICENSE.txt": "/VietGroupLP/static/js/2.c74d0d8d.chunk.js.LICENSE.txt",
     "static/media/american.39aeda0f.svg": "/VietGroupLP/static/media/american.39aeda0f.svg",
     "static/media/appStore.7ef1a869.svg": "/VietGroupLP/static/media/appStore.7ef1a869.svg",
@@ -54,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2111c7a.js",
     "static/js/2.c74d0d8d.chunk.js",
-    "static/css/main.e0e97ab5.chunk.css",
+    "static/css/main.864ae9c4.chunk.css",
     "static/js/main.b5e44b0f.chunk.js"
   ]
 }
