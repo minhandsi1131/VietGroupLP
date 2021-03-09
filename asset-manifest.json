@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VietGroupLP/static/css/main.4848e5a5.chunk.css",
-    "main.js": "/VietGroupLP/static/js/main.37a8e6d4.chunk.js",
-    "main.js.map": "/VietGroupLP/static/js/main.37a8e6d4.chunk.js.map",
+    "main.js": "/VietGroupLP/static/js/main.b5e44b0f.chunk.js",
+    "main.js.map": "/VietGroupLP/static/js/main.b5e44b0f.chunk.js.map",
     "runtime-main.js": "/VietGroupLP/static/js/runtime-main.b2111c7a.js",
     "runtime-main.js.map": "/VietGroupLP/static/js/runtime-main.b2111c7a.js.map",
     "static/js/2.c74d0d8d.chunk.js": "/VietGroupLP/static/js/2.c74d0d8d.chunk.js",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.b2111c7a.js",
     "static/js/2.c74d0d8d.chunk.js",
     "static/css/main.4848e5a5.chunk.css",
-    "static/js/main.37a8e6d4.chunk.js"
+    "static/js/main.b5e44b0f.chunk.js"
   ]
 }
