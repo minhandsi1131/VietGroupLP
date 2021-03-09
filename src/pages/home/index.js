@@ -15,13 +15,14 @@ import SectionFeatureDetail from "./SectionFeatureDetail";
 import RatingView from "./SectionRating/RatingView";
 import Incontructor from "../inContructor";
 import { useTranslation } from "react-i18next";
-
+import HeaderMobile from "./HeaderHome/HeaderMobile";
 const Home = () => {
   const { t } = useTranslation();
   return (
     <div>
       <div className="container">
         <HeaderHome />
+        <HeaderMobile />
         <SectionHeader />
         <SectionRegister />
         <SectionFeature
@@ -50,7 +51,6 @@ const Home = () => {
           subTitle3={t("sectionFeature.subTitle6")}
         />
         <RatingView />
-
         <Footer />
       </div>
       <Incontructor />

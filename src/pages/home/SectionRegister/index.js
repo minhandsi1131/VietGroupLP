@@ -8,7 +8,7 @@ const SectionRegister = () => {
   return (
     <div className="SectionRegister">
       <div className="container row ">
-        <img className="flex1" src={vg_2} class="" alt="vg2" />
+        <img className="flex1" id="vg_2" src={vg_2} class="" alt="vg2" />
         <div className="contentRegister flex1">
           <p className="subTitle">{t("sectionRegister.Doyouinterested")}</p>
           <p className="title">{t("sectionRegister.JoinVietGroup")}</p>

@@ -6,7 +6,11 @@ html {
     scroll-behavior: smooth;
 }
 
-.mobile {
+#mobile_menu {
+    display: none;
+}
+
+.contructorPage {
     display: none;
 
     .incontructorImg {
@@ -27,36 +31,181 @@ html {
     }
 }
 
+@media only screen and (max-width: 414px) {
+    .sectionHeader #img_1 {
+        margin-right: 0 !important;
+    }
+
+    .sectionHeader #img_2 {
+        margin-left: 0 !important;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
 
 
-@media only screen and (max-width: 600px) {
-    .container {
+    #mobile_menu {
+        display: block;
+    }
+
+    #vg_2 {
         display: none;
     }
 
-    .mobile {
+    #vg_3 {
+        display: none;
+    }
+
+    #vg_1 {
+        display: none;
+    }
+
+    .label {
+        padding-left: 50px !important;
+        padding-right: 50px !important;
+    }
+
+    .contructorPage {
+        display: none;
+    }
+
+    #vg_2 {
+        display: none;
+    }
+
+    .HeaderHome {
+        display: none;
+    }
+
+    .Footer .row {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .underFooter .container .row {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+
+    .Footer .marginLeft {
+        margin-left: 0px !important;
+    }
+
+    .marginLeft {
+        margin-left: 0;
+    }
+
+    .ContactBox {
+        display: none;
+    }
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    #mobile_menu {
         display: block;
+    }
+
+
+    .label {
+        padding-left: 50px !important;
+        padding-right: 50px !important;
+    }
+
+    .contructorPage {
+        display: none;
+    }
+
+    #vg_2 {
+        display: none;
+    }
+
+    .HeaderHome {
+        display: none;
     }
 }
 
 @media only screen and (max-width: 768px) {
-    .container {
+
+    #mobile_menu {
+        display: block;
+    }
+
+    #vg_1 {
         display: none;
     }
 
-    .mobile {
-        display: block;
+    #vg_2 {
+        display: none;
+    }
+
+    .contructorPage {
+        display: none;
+    }
+
+    .HeaderHome {
+        display: none;
     }
 
 }
 
 @media only screen and (max-width: 1024px) {
-    .container {
+    .SectionFeatureDetail {
+        display: none !important;
+    }
+
+    #mobile_menu {
+        display: block;
+    }
+
+    .HeaderHome {
         display: none;
     }
 
-    .mobile {
-        display: block;
+    // .SectionFeatureDetail {
+    //     display: none;
+    // }
+
+    #vg_2 {
+        display: none;
     }
+
+    #vg_3 {
+        display: none;
+    }
+
+    // .Footer .row {
+    //     display: flex !important;
+    //     flex-direction: column !important;
+    // }
+
+    // .underFooter .container .row {
+    //     display: flex !important;
+    //     flex-direction: row !important;
+    // }
+
+    // .Footer .marginLeft {
+    //     margin-left: 0px !important;
+    // }
+
+    // .marginLeft {
+    //     margin-left: 0;
+    // }
+
+    // .ContactBox {
+    //     display: none;
+    // }
+
+    // #footer {
+    //     display: none;
+    // }
+
+    .contructorPage {
+        display: none;
+    }
+
+
 
 }

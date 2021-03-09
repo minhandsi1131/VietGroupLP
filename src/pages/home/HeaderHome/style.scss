@@ -1,7 +1,24 @@
+a {
+    text-decoration: none;
+    color: #26415D;
+}
+
+
+
+.flag_mobile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
 .HeaderHome {
     position: fixed;
     width: 100%;
     z-index: 9;
+
 
     ul {
         list-style-type: none;
@@ -71,11 +88,4 @@
         margin-right: 0;
     }
 
-    // .line {
-    //     width: 0px;
-    //     height: 40px;
-    //     border: 1px solid #E2E2E2;
-    //     opacity: 1;
-    //     margin-right: 96px;
-    // }
 }

@@ -18,13 +18,13 @@ const SectionHeader = () => {
           <p className="title">{t("sectionHeader.SocialMediaConnectPeople")}</p>
           <Button label={t("sectionHeader.DowloadApp")} />
           <div className="row flag">
-            <img id="img_1" width={200} src={appStore} alt="appStore" />
-            <img id="img_2" width={200} src={googlePlay} alt="googlePlay" />
+            <img id="img_1" src={appStore} alt="appStore" />
+            <img id="img_2" src={googlePlay} alt="googlePlay" />
           </div>
         </div>
       </Grid>
       <Grid container justify="center" alignItems="center" xs={12} md={6}>
-        <img src={vg1} width={296} height={587} alt="vg1" />
+        <img src={vg1} id="vg_1" width={296} height={587} alt="vg1" />
       </Grid>
     </Grid>
   );

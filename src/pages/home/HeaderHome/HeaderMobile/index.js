@@ -6,7 +6,6 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import List from "@material-ui/core/List";
-import Typography from "@material-ui/core/Typography";
 import Divider from "@material-ui/core/Divider";
 import IconButton from "@material-ui/core/IconButton";
 import MenuIcon from "@material-ui/icons/Menu";
@@ -15,9 +14,14 @@ import ChevronRightIcon from "@material-ui/icons/ChevronRight";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
-import InboxIcon from "@material-ui/icons/MoveToInbox";
-import MailIcon from "@material-ui/icons/Mail";
-
+import CommentOutlinedIcon from "@material-ui/icons/CommentOutlined";
+import FeaturedPlayListOutlinedIcon from "@material-ui/icons/FeaturedPlayListOutlined";
+import PermContactCalendarSharpIcon from "@material-ui/icons/PermContactCalendarSharp";
+import vg_logo_small from "../../../../images/vg_logo_small.svg";
+import { useTranslation } from "react-i18next";
+import vietnam from "../../../../images/vietnam.svg";
+import japan from "../../../../images/japan.svg";
+import american from "../../../../images/american.svg";
 const drawerWidth = 240;
 
 const useStyles = makeStyles((theme) => ({
@@ -80,8 +84,12 @@ const useStyles = makeStyles((theme) => ({
 const HeaderMobile = () => {
   const classes = useStyles();
   const theme = useTheme();
-  const [open, setOpen] = React.useState(false);
 
+  const [open, setOpen] = React.useState(false);
+  const { t, i18n } = useTranslation();
+  const changeLanguage = (lng) => {
+    i18n.changeLanguage(lng);
+  };
   const handleDrawerOpen = () => {
     setOpen(true);
   };
@@ -89,19 +97,47 @@ const HeaderMobile = () => {
   const handleDrawerClose = () => {
     setOpen(false);
   };
+  const renderHref = (index) => {
+    switch (index) {
+      case 0:
+        return "#sectionRating";
 
+      case 1:
+        return "#sectionFeature";
+
+      case 2:
+        return "#footer";
+      default:
+        break;
+    }
+  };
+  const renderIcon = (index) => {
+    switch (index) {
+      case 0:
+        return <CommentOutlinedIcon />;
+
+      case 1:
+        return <FeaturedPlayListOutlinedIcon />;
+
+      case 2:
+        return <PermContactCalendarSharpIcon />;
+      default:
+        break;
+    }
+  };
   return (
-    <div className={classes.root}>
+    <div id="mobile_menu" className={classes.root}>
       <CssBaseline />
       <AppBar
         position="fixed"
+        color="white"
         className={clsx(classes.appBar, {
           [classes.appBarShift]: open,
         })}
       >
         <Toolbar>
           <IconButton
-            color="inherit"
+            color="secondary"
             aria-label="open drawer"
             onClick={handleDrawerOpen}
             edge="start"
@@ -109,9 +145,8 @@ const HeaderMobile = () => {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" noWrap>
-            Persistent drawer
-          </Typography>
+          <img src={vg_logo_small} alt="logo" />
+          {!open && <p>{t("headerMenu.Title")}</p>}
         </Toolbar>
       </AppBar>
       <Drawer
@@ -134,25 +169,33 @@ const HeaderMobile = () => {
         </div>
         <Divider />
         <List>
-          {["Inbox", "Starred", "Send email", "Drafts"].map((text, index) => (
-            <ListItem button key={text}>
-              <ListItemIcon>
-                {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-              </ListItemIcon>
-              <ListItemText primary={text} />
-            </ListItem>
+          {[
+            t("headerMenu.CustomerFeedBack"),
+            t("headerMenu.Feature"),
+            t("headerMenu.Contact"),
+          ].map((text, index) => (
+            <a href={renderHref(index)}>
+              <ListItem button key={text}>
+                <ListItemIcon>{renderIcon(index)}</ListItemIcon>
+                <ListItemText primary={text} />
+              </ListItem>
+            </a>
           ))}
-        </List>
-        <Divider />
-        <List>
-          {["All mail", "Trash", "Spam"].map((text, index) => (
-            <ListItem button key={text}>
-              <ListItemIcon>
-                {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-              </ListItemIcon>
-              <ListItemText primary={text} />
-            </ListItem>
-          ))}
+          <div className="flag_mobile">
+            <img
+              onClick={() => changeLanguage("vn")}
+              src={vietnam}
+              alt="vietnam"
+            />
+
+            <img onClick={() => changeLanguage("jp")} src={japan} alt="japan" />
+
+            <img
+              onClick={() => changeLanguage("en")}
+              src={american}
+              alt="american"
+            />
+          </div>
         </List>
       </Drawer>
     </div>

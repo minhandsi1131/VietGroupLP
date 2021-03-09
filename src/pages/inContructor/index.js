@@ -5,7 +5,7 @@ import incontructor from "../../images/incontructor.svg";
 const Incontructor = () => {
   const { t } = useTranslation();
   return (
-    <div className="mobile">
+    <div className="contructorPage">
       <Grid container justify="center" alignItems="center">
         <img className="incontructorImg" src={incontructor} alt="" />
         <p>

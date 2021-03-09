@@ -105,7 +105,7 @@ const SectionFeatureDetail = () => {
   };
   return (
     <div className="SectionFeatureDetail">
-      <img className="" src={img} class="" alt="" />
+      <img className="" id="vg_3" src={img} class="" alt="" />
       <div className="sectionFeature">
         <p className="title">{t("sectionFeatureDetail.Feature")}</p>
         <p className="subTitle">{t("sectionFeatureDetail.description")}</p>
