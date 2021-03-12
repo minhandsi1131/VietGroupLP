@@ -49,7 +49,7 @@ const SectionRatingComponent = ({ img, name, isMain }) => {
   }));
   const classes = useStyles();
   return (
-    <div className={classes.root}>
+    <div id={name} className={classes.root}>
       <StyledBadge
         overlap="circle"
         anchorOrigin={{

@@ -44,6 +44,21 @@ html {
 
 @media only screen and (max-width: 540px) {
 
+    #person1 {
+        display: none;
+    }
+
+    #person2 {
+        display: none;
+    }
+
+    #person4 {
+        display: none;
+    }
+
+    #person5 {
+        display: none;
+    }
 
     #mobile_menu {
         display: block;
@@ -108,7 +123,6 @@ html {
         display: block;
     }
 
-
     .label {
         padding-left: 50px !important;
         padding-right: 50px !important;
@@ -124,6 +138,10 @@ html {
 
     .HeaderHome {
         display: none;
+    }
+
+    .underFooter {
+        display: flex;
     }
 }
 
@@ -149,11 +167,20 @@ html {
         display: none;
     }
 
+    #person4 {
+        display: none;
+    }
+
+
 }
 
 @media only screen and (max-width: 1024px) {
     .SectionFeatureDetail {
         display: none !important;
+    }
+
+    #person5 {
+        display: none;
     }
 
     #mobile_menu {
@@ -164,10 +191,6 @@ html {
         display: none;
     }
 
-    // .SectionFeatureDetail {
-    //     display: none;
-    // }
-
     #vg_2 {
         display: none;
     }
@@ -175,32 +198,6 @@ html {
     #vg_3 {
         display: none;
     }
-
-    // .Footer .row {
-    //     display: flex !important;
-    //     flex-direction: column !important;
-    // }
-
-    // .underFooter .container .row {
-    //     display: flex !important;
-    //     flex-direction: row !important;
-    // }
-
-    // .Footer .marginLeft {
-    //     margin-left: 0px !important;
-    // }
-
-    // .marginLeft {
-    //     margin-left: 0;
-    // }
-
-    // .ContactBox {
-    //     display: none;
-    // }
-
-    // #footer {
-    //     display: none;
-    // }
 
     .contructorPage {
         display: none;

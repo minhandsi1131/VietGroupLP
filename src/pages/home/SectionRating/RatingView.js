@@ -32,10 +32,10 @@ const RatingView = () => {
       <div className="line" />
       <Grid direction="row" container justify="center" alignItems="center">
         <SectionRatingComponent img={person1} name="person1" />
-        <SectionRatingComponent img={person2} name="person1" />
-        <SectionRatingComponent img={person3} isMain={true} name="person1" />
-        <SectionRatingComponent img={person4} name="person1" />
-        <SectionRatingComponent img={person5} name="person1" />
+        <SectionRatingComponent img={person2} name="person2" />
+        <SectionRatingComponent img={person3} name="person3" />
+        <SectionRatingComponent img={person4} name="person4" />
+        <SectionRatingComponent img={person5} name="person5" />
       </Grid>
       <Grid justify="center" alignItems="center" className={classes.root}>
         <Rating
